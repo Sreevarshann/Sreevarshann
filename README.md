@@ -43,7 +43,8 @@ I have a deep interest in data analytics and am always exploring new tools and t
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
 ### 📈 Let's Connect!
-I'm always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/sreevarshansathiyamurthy).
+I'm always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sreevarshansathiyamurthy)
 
 ---
 
