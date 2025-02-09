@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Sreevarshan Sathiyamurthy
 
-### 🎓 Data Analyst | Master's Student at Northeastern University
-
-Pursuing a Master's degree in Data Analytics Engineering at Northeastern University, I am driven by a passion for turning complex data into actionable insights and innovative solutions.
+### 🔍 Data Analyst | 📊 Business Analyst | 🧠 Data Scientist | 🛠️ Data Engineer  
+As a Data Analyst, I delve into complex datasets to uncover patterns and insights. I also predict future trends and model data as a Data Scientist, develop automation solutions as a Data Engineer, and provide strategic business insights and visualizations as a Business Analyst.
 
 ---
 
