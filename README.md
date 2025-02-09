@@ -2,49 +2,38 @@
 
 ### 🎓 Data Analyst | Master's Student at Northeastern University
 
-I'm currently pursuing my Master's degree in Data Analytics Engineering at Northeastern University, Boston. I'm passionate about using data to drive insights, optimize processes, and solve real-world problems.
+Pursuing a Master's degree in Data Analytics Engineering at Northeastern University, I am driven by a passion for turning complex data into actionable insights and innovative solutions.
 
 ---
 
-### 💡 About Me
-I have a deep interest in data analytics and am always exploring new tools and techniques to enhance my skills. Outside of analytics, I enjoy working on web development projects and constantly strive to learn more about cloud technologies.
+### 💡 A Bit About Me
+With a profound interest in data and technology, I continually explore cutting-edge tools and techniques to refine my skills. Beyond data analytics, I dive into web development and am always keen to expand my knowledge in cloud technologies.
 
 > “The goal is to turn data into information, and information into insight.” – Carly Fiorina
 
 ---
 
-### 🛠️ My Skill Set
-#### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+### 🛠️ Technical Toolkit
 
-#### **Cloud Platforms**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+#### **Core Programming**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
 
-#### **Data Visualization & Analytics Tools**
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-![Minitab](https://img.shields.io/badge/-Minitab-007ACC?style=flat)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat)
+#### **Cloud Mastery & Data Management**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square) ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) ![Adafruit IO](https://img.shields.io/badge/-Adafruit%20IO-C0C0C0?style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-00FF00?style=flat-square&color=black)
 
-#### **Office and Presentation Tools**
-![MS Word](https://img.shields.io/badge/-MS%20Word-2B579A?logo=microsoft-word&logoColor=white&style=flat)
-![MS Excel](https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
-![MS PowerPoint](https://img.shields.io/badge/-MS%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat)
-![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?logo=google-workspace&logoColor=white&style=flat)
 
-#### **Web Development**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+#### **Data Visualization & Analytics**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square) ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white&style=flat-square) ![Minitab](https://img.shields.io/badge/-Minitab-007ACC?style=flat-square) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square)
+
+#### **Project & Process Management**
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square) ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat-square) ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=flat-square) ![Microsoft Suite](https://img.shields.io/badge/-Microsoft%20Suite-D83B01?logo=microsoft-office&logoColor=white&style=flat-square)
+
+#### **Web Technologies**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 ### 📈 Let's Connect!
 I'm always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sreevarshansathiyamurthy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sreevarshansathiyamurthy)
 
 ---
 
