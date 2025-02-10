@@ -36,4 +36,4 @@ I'm always open to connecting with like-minded professionals and exploring new o
 
 ---
 
-Thank you for visiting my profile! 😄
+Thank you for visiting my profile! Feel free to explore my repositories to see more of my work! 😄
