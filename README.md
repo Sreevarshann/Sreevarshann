@@ -23,7 +23,7 @@ Detail-oriented and creative, I transform complex data into actionable insights,
 
 | Area                                      | Technologies                                     |
 |-------------------------------------------|--------------------------------------------------|
-| **Programming and Data Tools:**           | Python, R, SQL, SAS                              |
+| **Programming and Data Tools:**           | Python, R, SQL, C, SAS                              |
 | **Data Visualization & Business Intelligence:** | Power BI, Tableau, Looker, Advanced Excel       |
 | **Data Engineering & Pipelines:**         | ETL Processes, Apache Airflow, Kafka, PySpark    |
 | **Cloud & Data Management:**              | Adafruit IO, Supabase, MySQL, Snowflake, MongoDB |
